@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE students SYSTEM "data.dtd">
+
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<students>
+    <student>
+        <name>Swanandi</name>
+        <email>swanandi@gmail.com</email>
+        <course>IT</course>
+    </student>
+    
+    <student>
+        <name>Aishwarya</name>
+        <email>Aishwarya@gmail.com</email>
+        <course>CS</course>
+    </student>
+</students>
